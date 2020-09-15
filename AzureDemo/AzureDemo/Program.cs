@@ -6,7 +6,7 @@ namespace AzureDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Consolegg.WriteLine("Hello World!");
         }
     }
 }
